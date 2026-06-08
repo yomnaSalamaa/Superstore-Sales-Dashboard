@@ -4,6 +4,28 @@ An interactive Power BI dashboard analyzing 4 years of Superstore sales data (20
 
 ---
 
+## 📸 Dashboard Preview
+
+### Overview
+![Overview](overview.png)
+
+### Geographic Analysis
+![Geographic Analysis](geographic.png)
+
+### Products Performance
+![Products Performance](products.png)
+
+### Customer Analysis
+![Customer Analysis](customers.png)
+
+### Discount & Time Analysis
+![Discount & Time Analysis](discounts.png)
+
+### Forecasting & Extras
+![Forecasting & Extras](extras.png)
+
+---
+
 ## 📊 Dashboard Pages
 
 | Page | Description |
