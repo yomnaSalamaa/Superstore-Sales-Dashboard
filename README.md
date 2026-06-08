@@ -30,7 +30,7 @@ An interactive Power BI dashboard analyzing 4 years of Superstore sales data (20
 
 | Page | Description |
 |------|-------------|
-| Overview | KPI cards (Total Sales, Profit, Orders), Sales by Category & Sub-Category Treemap, Year slicer |
+| Overview | KPI cards (Total Sales, Total Profit, Total Orders), Sales by Category & Sub-Category Treemap, Year slicer |
 | Geographic Analysis | Top 10 States for Technology Sales, Top 5 States for Office Supplies, Region slicer |
 | Products Performance | Sub-Category Sales vs Profit — identifying winners and losers |
 | Customer Analysis | Top 20 Customers ranked by Sales with profitability breakdown |
